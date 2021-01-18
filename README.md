@@ -1,9 +1,12 @@
 # Mendix-Klippa-OCR-API
+
+:rocket: *Create smart document processes in Mendix using the Klippa OCR API* :rocket:
+
 **The source code of the Mendix Klippa OCR module to do document parsing directly from Mendix.**
 
-## API key
+## Module usage
 
-You will need an API key to use this module. Please contact us at support@klippa.com if you would like to test our API.
+You will need an API key to use this module. If you would like to use our API, please contact us [here](https://www.klippa.com/en/ocr/ocr-api).
 
 ## How to use the module
 
